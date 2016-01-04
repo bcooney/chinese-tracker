@@ -1,6 +1,4 @@
-open life tracker
-=================
-Track any personal or professional data in the browser. Track your health, the fuel usage or just use it as a diary with some spice. The graphs visualizes the data. It's offline only and uses localStorage. 
+Based on synox's [open life tracker](https://synox.github.io/open-life-tracker/app/)
 
 `#`Hashtags with `:values` enable you to track your progress or events on any topic in the chart: 
 
