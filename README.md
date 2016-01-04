@@ -1,13 +1,20 @@
+Chinese Tracker
+===============
+
 Based on synox's [open life tracker](https://synox.github.io/open-life-tracker/app/)
 
-`#`Hashtags with `:values` enable you to track your progress or events on any topic in the chart: 
+`#`Hashtags with `:values` enable tracking progress:
 
-    Good running session #running #distance:12km  #duration:90min #heartbeats:85
+    Spoke #chinese:2hr with my wife
     
-    Doctor says it's a cold #sick #fever:37  
+    Spoke #chinese:1hr in a meeting today
+    
+Changes made between synox's original and mine:
+- Removed delete all funciton - don't want someone to come along and wipe my data!
 
-    Lasagne for lunch #food #calories:560 #carbohydrates:250g
-![Demo Chart](doc-chart.png)
+---
+
+From the original README:
 
 Try the [Demo Application](https://synox.github.io/open-life-tracker/app/)
 ## Installation
