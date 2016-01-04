@@ -10,7 +10,10 @@ Based on synox's [open life tracker](https://synox.github.io/open-life-tracker/a
     Spoke #chinese:1hr in a meeting today
     
 Changes made between synox's original and mine:
-- Removed delete all function - don't want someone to come along and wipe my data!
+- [x] Removed edit/delete entry function
+- [x] Removed 'Advanced' drop-down
+- [x] Removed delete all/reset function
+- [x] Updated `<title>` and `<label>` 
 
 ---
 
